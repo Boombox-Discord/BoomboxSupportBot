@@ -1,0 +1,23 @@
+{
+  "name": "boombox-support",
+  "version": "0.0.1",
+  "description": "Support bot for Offical Boombox Server",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boombox-Discord/BoomboxSupportBot.git"
+  },
+  "author": "Arrow Quirk, Leon Bowie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boombox-Discord/BoomboxSupportBot/issues"
+  },
+  "homepage": "https://github.com/Boombox-Discord/BoomboxSupportBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "rss-parser": "^3.11.0"
+  }
+}
